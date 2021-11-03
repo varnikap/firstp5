@@ -1,0 +1,11 @@
+canvas
+{
+    border-color: grey;
+    border-width: 10px;
+}
+body{
+    background-color: #FFDEAD;
+}
+button{
+    text-align: center;
+}
